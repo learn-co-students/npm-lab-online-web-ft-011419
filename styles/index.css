@@ -3,7 +3,7 @@ body {
 }
 
 #clock {
-  text-align: center;
+  text-align: left;
   line-height: 100px;
   font-size: 300%;
   height: 100px;
